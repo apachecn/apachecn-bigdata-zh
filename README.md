@@ -21,6 +21,15 @@
 +   [Spark2 数据处理和实时分析](docs/spark-dl-cb/SUMMARY.md)
 +   [Spark 2.x 机器学习秘籍](docs/spark2-begin/SUMMARY.md)
 +   [Spark 深度学习秘籍](docs/spark2-data-proc-rt-anal/SUMMARY.md)
++   [使用 Storm 构建 Python 实时应用](docs/build-py-rt-app-storm/SUMMARY.md)
++   [Python 数据科学与机器学习实用手册](docs/handson-ds-py-ml/SUMMARY.md)
++   [精通 Spark](docs/master-spark/SUMMARY.md)
++   [精通 Storm](docs/master-storm/SUMMARY.md)
++   [Spark 机器学习](docs/ml-spark/SUMMARY.md)
++   [大数据分析实战](docs/prac-big-data-anal/SUMMARY.md)
++   [Spark 秘籍](docs/spark-cb/SUMMARY.md)
++   [面向 Python 开发者的 Spark ](docs/spark-py-dev/SUMMARY.md)
++   [Storm 蓝图](docs/storm-blueprint/SUMMARY.md)
 
 ## 贡献指南
 
