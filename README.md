@@ -30,6 +30,10 @@
 +   [Spark 秘籍](docs/spark-cb/SUMMARY.md)
 +   [面向 Python 开发者的 Spark ](docs/spark-py-dev/SUMMARY.md)
 +   [Storm 蓝图](docs/storm-blueprint/SUMMARY.md)
++   [Flink 学习手册](docs/learn-flink/SUMMARY.md)
++   [Kafka 学习手册中文第二版](docs/learn-kafka-2e/SUMMARY.md)
++   [Storm 和 Cassandra 实时分析](docs/rt-anal-storm-cassandra/SUMMARY.md)
++   [Spark 数据科学](docs/spark-ds/SUMMARY.md)
 
 ## 贡献指南
 
